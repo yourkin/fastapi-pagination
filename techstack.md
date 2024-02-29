@@ -4,8 +4,8 @@
 yourkin/fastapi-pagination is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Netlify](https://www.netlify.com/) – Static Web Hosting
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Netlify](https://www.netlify.com/) – Static Web Hosting
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 yourkin/fastapi-pagination is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yourkin/fastapi-pagination](https://github.com/yourkin/fastapi-pagination)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|01/05/24 <br/>Report generated|
+|18<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -99,7 +99,7 @@ Full tech stack [here](/techstack.md)
 |[SQLAlchemy](https://pypi.org/project/SQLAlchemy)|v1.3.20|08/06/21|Yurii Karabas |MIT|N/A|
 |[asyncpg](https://pypi.org/project/asyncpg)|v0.24.0|08/11/21|dependabot[bot] |Apache-2.0|N/A|
 |[black](https://pypi.org/project/black)|N/A|07/19/21|dependabot[bot] |MIT|N/A|
-|[fastapi](https://pypi.org/project/fastapi)|v0.68.1|12/31/20|Yurii Karabas |MIT|N/A|
+|[fastapi](https://pypi.org/project/fastapi)|v0.68.1|12/31/20|Yurii Karabas |MIT|[](https://github.com/advisories/GHSA-qf9m-vfgh-m389) (High)<br/>[CVE-2024-24762](https://github.com/advisories/GHSA-2jv5-9r88-3w3p) (High)|
 |[nest-asyncio](https://pypi.org/project/nest-asyncio)|v1.5.1|08/11/21|dependabot[bot] |BSD-2-Clause|N/A|
 |[pre-commit](https://pypi.org/project/pre-commit)|v2.14.0|08/09/21|dependabot[bot] |MIT|N/A|
 |[pydantic](https://pypi.org/project/pydantic)|v1.8.2|11/06/20|Yurii Karabas |MIT|N/A|
